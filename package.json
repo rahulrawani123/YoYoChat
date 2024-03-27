@@ -4,8 +4,7 @@
   "description": "Real Time Chat With NodeJS, Socket.io and ExpressJS",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -13,6 +12,7 @@
   },
   "keywords": [
     "nodejs",
+    "socket.io",
     "expressJS",
     "extwiii",
     "chat",
